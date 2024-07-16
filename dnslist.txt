@@ -1,2 +1,3 @@
 teste.com.br
 china.com.br
+localhost:3000
